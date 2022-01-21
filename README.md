@@ -1,0 +1,2 @@
+# goindexnow
+indexnow by golang
